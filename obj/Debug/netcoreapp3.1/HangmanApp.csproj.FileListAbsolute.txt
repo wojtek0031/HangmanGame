@@ -1,0 +1,13 @@
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\bin\Debug\netcoreapp3.1\HangmanApp.exe
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\bin\Debug\netcoreapp3.1\HangmanApp.deps.json
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\bin\Debug\netcoreapp3.1\HangmanApp.runtimeconfig.json
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\bin\Debug\netcoreapp3.1\HangmanApp.runtimeconfig.dev.json
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\bin\Debug\netcoreapp3.1\HangmanApp.dll
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\bin\Debug\netcoreapp3.1\HangmanApp.pdb
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\obj\Debug\netcoreapp3.1\HangmanApp.csproj.AssemblyReference.cache
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\obj\Debug\netcoreapp3.1\HangmanApp.AssemblyInfoInputs.cache
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\obj\Debug\netcoreapp3.1\HangmanApp.AssemblyInfo.cs
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\obj\Debug\netcoreapp3.1\HangmanApp.csproj.CoreCompileInputs.cache
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\obj\Debug\netcoreapp3.1\HangmanApp.dll
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\obj\Debug\netcoreapp3.1\HangmanApp.pdb
+D:\Nauka\Programowanie\C#\Console\newAge\HangmanApp\obj\Debug\netcoreapp3.1\HangmanApp.genruntimeconfig.cache
